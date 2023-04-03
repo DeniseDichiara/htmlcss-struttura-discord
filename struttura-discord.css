@@ -16,5 +16,20 @@ header{
     max-width: 1200px;
     justify-content: space-between;
     margin: 0 auto;
+    border: 3px dotted black;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    list-style-type: none
+}
+
+.links-rows{
+    display: flex;
+    justify-content: space-between;
 }
 

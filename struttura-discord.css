@@ -9,5 +9,10 @@
     margin: 0 auto;
     background-color: lightblue;
     max-width: 1200px;
+}
+.upper-bar{
+    display: flex;
+    background-color: orange;
+    border: 1px dotted black;
 
 }

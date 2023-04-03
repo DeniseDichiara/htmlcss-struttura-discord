@@ -121,3 +121,22 @@ li{
     width: 60%;
    height: 30rem;
 }
+
+.section-white{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    justify-content: center;
+}
+
+.container-cyan{
+    margin: 1% 20%;
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    border: 0.2rem dotted black;
+    width: 60%;
+   height: 30rem;
+}

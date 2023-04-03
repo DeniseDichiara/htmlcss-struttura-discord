@@ -69,3 +69,36 @@ li{
     width: 40%;
    height: 20rem;
 }
+.section-white{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    justify-content: center;
+}
+
+.container-cyan{
+    margin: 1% 20%;
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    border: 0.2rem dotted black;
+    width: 60%;
+   height: 30rem;
+}
+
+.red{
+    background-color: skyblue;
+    flex-direction: row;
+    border-right: 0.2rem dotted black;
+    width: 70%;
+    height: 100%;
+}
+
+.green{
+    background-color: pink;
+    flex-direction: row;
+    width: 30%;
+    height: 100%;
+}

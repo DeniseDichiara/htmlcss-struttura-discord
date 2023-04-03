@@ -102,3 +102,22 @@ li{
     width: 30%;
     height: 100%;
 }
+
+.section-grey{
+    display: flex;
+    flex-direction: row;
+    background-color: lightgray;
+    justify-content: center;
+}
+
+.container-magenta{
+    margin: 1% 20%;
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: center;
+    border: 0.2rem dotted black;
+    width: 60%;
+   height: 30rem;
+}

@@ -140,3 +140,39 @@ li{
     width: 60%;
    height: 30rem;
 }
+
+.container-oliva{
+    margin: 1% 20%;
+    display: flex;
+    background-color: darkgreen;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: center;
+    border: 0.2rem dotted black;
+    width: 60%;
+   height: 50rem;
+}
+
+.flex2{
+    display: flex;
+    background-color: black;
+}
+
+.container-flex2{
+    margin: 0 20%;
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    border: 0.2rem dotted black;
+    width: 60%;
+    height: 3rem;
+
+}
+
+.logo-bottone{
+    background-color: pink;
+    border: 0.2rem dotted black;
+}
+

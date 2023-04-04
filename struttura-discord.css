@@ -164,13 +164,37 @@ li{
 .container-purple{
     margin: 1% 20%;
     display: flex;
-    background-color: purple;
+    background-color: black
     justify-content: space-between;
-    flex-direction: row-reverse;
+    flex-direction: row;
     align-items: center;
     border: 0.2rem dotted black;
     width: 60%;
    height: 30rem;
+}
+
+.purple1{
+    background-color: palevioletred;
+    flex-direction: row;
+    border-right: 0.2rem dotted black;
+    width: 30%;
+    height: 100%;
+}
+
+.purple2{
+    display: flex;
+    background-color: skyblue;
+    flex-direction: row;
+    border-right: 0.2rem dotted black;
+    width: 80%;
+    height: 100%;
+}
+
+.little{
+    flex-direction: row;
+    border-right: 0.2rem dotted black;
+    width: 50%;
+    height: 100%;
 }
 
 .flex2{

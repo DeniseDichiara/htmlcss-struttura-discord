@@ -166,14 +166,19 @@ li{
     justify-content: space-between;
     flex-direction: row;
     align-items: center;
-    border: 0.2rem dotted black;
+    border: 0.1rem solid black;
     width: 60%;
     height: 3rem;
+    margin-top: 0.2%;
 
 }
 
 .logo-bottone{
     background-color: pink;
     border: 0.2rem dotted black;
+}
+
+.logo-bottone2{
+    margin: 0.2rem;
 }
 

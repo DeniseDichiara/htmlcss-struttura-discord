@@ -154,6 +154,25 @@ li{
    height: 50rem;
 }
 
+.section-multiple{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: center;
+}
+
+.container-purple{
+    margin: 1% 20%;
+    display: flex;
+    background-color: purple;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: center;
+    border: 0.2rem dotted black;
+    width: 60%;
+   height: 30rem;
+}
+
 .flex2{
     display: flex;
     background-color: black;

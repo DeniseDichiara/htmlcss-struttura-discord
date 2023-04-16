@@ -38,21 +38,6 @@ section.upper nav{
     width: 60%;
 }
 
-/*
-header{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
-.flex{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: aquamarine;
-}
-*/
 .background-gold{
     background-color: goldenrod;
 }
@@ -72,11 +57,8 @@ header{
     justify-content: center;
 }
 
-/*  SISTEMARE LO SPAZIO NEL NAV BAR DOVE CI SONO I VARI LINKS  */
-
 ul{
     list-style-type: none
-    /* dare grandezza all' UL*/
 }
 
 li{
@@ -241,7 +223,6 @@ li{
     width: 60%;
     height: 3rem;
     margin-top: 1%;
-
 }
 
 .logo-bottone{
